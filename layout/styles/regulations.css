@@ -1,0 +1,16 @@
+.provision {
+ padding-left: 20px;
+ font-weight: bold;
+}
+
+ol {
+ margin-left: 20px;
+}
+
+ol li {
+ padding: 2px 0;
+}
+
+ul li {
+ padding-top: 1px;
+}

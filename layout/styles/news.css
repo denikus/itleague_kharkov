@@ -1,0 +1,21 @@
+.newscontainer {
+ margin-bottom: 20px;
+}
+
+	.newscontainer .img {
+	 float: left;
+	 width: 100px;
+	}
+
+	.newscontainer .msg {
+	 float: left;
+	 margin-left: 20px;
+	 width: 790px;
+	}
+
+	.newscontainer .msg .title {
+	 margin-bottom: 5px;
+	 font-weight: bold;
+	}
+
+	.newscontainer .content .body {}

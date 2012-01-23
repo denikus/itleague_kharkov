@@ -1,0 +1,176 @@
+.calendarcontainer {
+ margin-bottom: 10px;
+}
+
+	.calendarcontainer .ctitle {
+	 margin-bottom: 10px;
+	 font-weight: bold;
+	 line-height: 20px;
+	 text-align: center;
+	 color: #fff;
+	 background-color: #1fb100;
+	}
+
+	.calendarcontainer .cleft {
+	 float: left;
+	 width: 450px;
+	}
+
+	.calendarcontainer .cright {
+	 float: right;
+	 width: 450px;
+	}
+
+	.calendarcontainer .stitle {
+	 margin-bottom: 5px;
+	 font-weight: bold;
+	 text-align: center;
+	}
+
+	.calendarcontainer .round {
+	 margin-bottom: 10px;
+	}
+
+		.calendarcontainer .round .rtitle {
+		 padding: 0 5px;
+		 color: #fff;
+		 background-color: #009fd9;
+		 line-height: 20px;
+		}
+
+			.calendarcontainer .round .rtitle a {
+			 display: block;
+			 float: right;
+			 color: #fff;
+			 text-decoration: underline;
+			 line-height: 20px;
+			}
+
+		.calendarcontainer .round .rnote {
+		 margin-top: 3px;
+		 font-size: 11px;
+		}
+
+			.calendarcontainer .round .rnote .dq-red, .calendarcontainer .round .rnote .dq-yellow {
+			 display: block;
+			 float: left;
+			 margin: 0 5px;
+			 width: 8px;
+			 height: 11px;
+			 background-color: #f00;
+			}
+
+			.calendarcontainer .round .rnote .dq-yellow {
+			 background-color: #ff0;
+			}
+
+		.calendarcontainer .round .match {
+		 font-size: 11px;
+		 background-color: #fff;
+		}
+
+			.calendarcontainer .round .match.r1 .mno,
+			.calendarcontainer .round .match.r1 .mgroup,
+			.calendarcontainer .round .match.r1 .mtime,
+			.calendarcontainer .round .match.r1 .mt1,
+			.calendarcontainer .round .match.r1 .mresult,
+			.calendarcontainer .round .match.r1 .mt2,
+			.calendarcontainer .round .match.r1 .mlink
+			{
+			 background-color: #eee;
+			}
+
+			.calendarcontainer .round .match.r2 .mno,
+			.calendarcontainer .round .match.r2 .mgroup,
+			.calendarcontainer .round .match.r2 .mtime,
+			.calendarcontainer .round .match.r2 .mt1,
+			.calendarcontainer .round .match.r2 .mresult,
+			.calendarcontainer .round .match.r2 .mt2,
+			.calendarcontainer .round .match.r2 .mlink
+			{
+			 background-color: #ddd;
+			}
+
+			.calendarcontainer .round .match .mno,
+			.calendarcontainer .round .match .mgroup,
+			.calendarcontainer .round .match .mtime,
+			.calendarcontainer .round .match .mt1,
+			.calendarcontainer .round .match .mresult,
+			.calendarcontainer .round .match .mt2,
+			.calendarcontainer .round .match .mlink
+			{
+			 float: left;
+			 padding: 2px;
+			 text-align: center;
+			 margin-right: 1px;
+			}
+
+			.calendarcontainer .round .match .mno {
+			 width: 16px;
+			}
+
+            .calendarcontainer .round .match .mgroup {
+			 width: 20px;
+            }
+
+			.calendarcontainer .round .match .mtime {
+			 width: 80px;
+			}
+
+			.calendarcontainer .round .match .mtime.final {
+			 text-decoration: underline;
+			}
+
+			.calendarcontainer .round .match .mt1, .calendarcontainer .round .match .mt2 {
+			 width: 110px;
+			 font-weight: bold;
+			}
+
+			.calendarcontainer .round .match .mt1.fn, .calendarcontainer .round .match .mt2.fn {
+			 font-size: 10px;
+			 line-height: 13px;
+			}
+
+			.calendarcontainer .round .match .mt1.win, .calendarcontainer .round .match .mt2.win {
+			 text-decoration: underline;
+			}
+
+				.calendarcontainer .round .match .mt1 .pt, .calendarcontainer .round .match .mt2 .pt {
+				 font-family: Tahoma, sans-serif;
+				 font-size: 8px;
+				 font-weight: normal;
+				}
+
+			.calendarcontainer .round .match .mresult {
+			 width: 40px;
+			}
+
+			.calendarcontainer .round .match .mlink {
+			 margin-right: 0;
+			 width: 40px;
+			}
+
+				.calendarcontainer .round .match .mresult a, .calendarcontainer .round .match .mlink a {
+				 font-size: 11px;
+				 font-weight: bold;
+				}
+
+.precalendar {}
+
+	.precalendar .title {
+	 margin-bottom: 10px;
+	 font-weight: bold;
+	 text-decoration: underline;
+	}
+
+		.precalendar ol {
+		 margin-left: 20px;
+		}
+
+			.precalendar ol li {
+			 padding: 2px 0;
+			}
+
+		.precalendar ul li {
+		 padding-top: 1px;
+		}

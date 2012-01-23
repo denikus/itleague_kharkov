@@ -1,0 +1,107 @@
+.statistics {
+ margin-bottom: 10px;
+}
+
+	.statistics .stitle {
+	 margin-bottom: 10px;
+	 font-weight: bold;
+	 line-height: 20px;
+	 text-align: center;
+	 color: #fff;
+	 background-color: #1fb100;
+	}
+
+	.statistics .sleft {
+	 float: left;
+	 width: 450px;
+	}
+
+	.statistics .sright {
+	 float: right;
+	 width: 450px;
+	}
+
+		.statistics .sleft .sidetitle, .statistics .sright .sidetitle {
+		 margin-bottom: 5px;
+		 font-weight: bold;
+		 text-align: center;
+		}
+
+	.statistics .round {
+	 margin-bottom: 10px;
+	}
+
+		.statistics .round .rtitle {
+		 padding: 0 5px;
+		 color: #fff;
+		 background-color: #009fd9;
+		 text-align: center;
+		 line-height: 20px;
+		}
+
+		.statistics .round .row {
+		 font-size: 11px;
+		 background-color: #fff;
+		}
+
+		.statistics .round .row.section {
+		 border-bottom: 1px solid #333;
+		}
+
+			.statistics .round .row.titles div {
+			 background-color: #ccc;
+			 font-weight: bold;
+			 text-align: center;
+			}
+
+			.statistics .round .row.r1 div {
+			 background-color: #eee;
+			}
+
+			.statistics .round .row.r2 div {
+			 background-color: #ddd;
+			}
+
+			.statistics .round .row .char,
+			.statistics .round .row .group,
+			.statistics .round .row .int,
+			.statistics .round .row .total
+			{
+			 float: left;
+			 padding: 2px;
+			 text-align: center;
+			 margin-right: 1px;
+			}
+
+			.statistics .round .row .char {
+			 width: 166px;
+			 text-align: left;
+			}
+
+			.statistics .round .row .char.dep {
+			 width: 146px;
+			 padding-left: 22px;
+			}
+
+			.statistics .round .row .char.dep2 {
+			 width: 136px;
+			 padding-left: 32px;
+			}
+
+			.statistics .round .row .total {
+			 margin-right: 0;
+			}
+
+			.statistics .round .row .group, .statistics .round .row .int, .statistics .round .row .total {
+			 width: 35px;
+			}
+
+			.statistics .round .row .group.FS {
+			 width: 34px;
+			 border-left: 1px solid #999;
+			}
+
+			.statistics .round .row .int.GS {
+			 width: 34px;
+			 border-right: 1px solid #999;
+			}

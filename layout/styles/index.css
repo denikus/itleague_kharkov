@@ -1,0 +1,14 @@
+.sponsors {}
+
+	.sponsors .s1, .sponsors .s2 {
+	 width: 450px;
+	 height: 150px;
+	}
+
+		.sponsors .s1 {
+		 float: left;
+		}
+
+		.sponsors .s2 {
+		 float: right;
+		}

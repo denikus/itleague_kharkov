@@ -1,0 +1,68 @@
+.scorers {
+ margin-bottom: 10px;
+}
+
+	.scorers .round {
+	 margin: 5px 0;
+	 font-weight: bold;
+	 text-align: center;
+	}
+
+	.scorers .sleft {
+	 float: left;
+	 width: 450px;
+	}
+
+	.scorers .sright {
+	 float: right;
+	 width: 450px;
+	}
+
+	.scorers .player {
+	 font-size: 11px;
+	}
+
+		.scorers .player .no,
+		.scorers .player .name,
+		.scorers .player .team,
+		.scorers .player .total,
+		.scorers .player .p6,
+		.scorers .player .p10
+		{
+		 float: left;
+		 padding: 2px;
+		 text-align: center;
+		 margin-right: 1px;
+		}
+
+        .scorers .player.title div {
+	     background-color: #ccc;
+	     font-weight: bold;
+        }
+
+		.scorers .player.r1 div {
+		 background-color: #eee;
+		}
+
+		.scorers .player.r2 div {
+		 background-color: #ddd;
+		}
+
+		.scorers .player .no {
+		 width: 20px;
+		}
+
+		.scorers .player .name {
+		 width: 200px;
+		 text-align: left;
+		}
+
+		.scorers .player .team {
+		 width: 125px;
+		 text-align: left;
+		}
+
+		.scorers .player .total, .scorers .player .p6, .scorers .player .p10 {
+		 width: 25px;
+		}
+
