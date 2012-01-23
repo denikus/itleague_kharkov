@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="442a6f08-f9b7-45be-b242-faef23709422" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/js/partners.js" afterPath="$PROJECT_DIR$/layout/js/partners.js" />
     </list>
     <ignored path="itleague.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,19 +24,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="77" column="10" selection-start="4206" selection-end="4206" vertical-scroll-proportion="-47.76">
+            <state line="78" column="33" selection-start="4238" selection-end="4238" vertical-scroll-proportion="0.8499062">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="partners.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="partners.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/layout/js/partners.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="440" selection-start="461" selection-end="461" vertical-scroll-proportion="0.029330889">
+            <state line="2" column="440" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -68,8 +67,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/layout/styles/main.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/layout/js/partners.js" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -354,16 +353,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/layout/js/partners.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="10" selection-start="4206" selection-end="4206" vertical-scroll-proportion="-47.76">
+        <state line="2" column="440" selection-start="461" selection-end="461" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/layout/js/partners.js">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="440" selection-start="461" selection-end="461" vertical-scroll-proportion="0.029330889">
+        <state line="78" column="33" selection-start="4238" selection-end="4238" vertical-scroll-proportion="0.8499062">
           <folding />
         </state>
       </provider>
