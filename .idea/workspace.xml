@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="442a6f08-f9b7-45be-b242-faef23709422" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/layout/styles/main.css" afterPath="$PROJECT_DIR$/layout/styles/main.css" />
     </list>
     <ignored path="itleague.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="99" selection-start="622" selection-end="622" vertical-scroll-proportion="0.2251407">
+            <state line="15" column="113" selection-start="636" selection-end="636" vertical-scroll-proportion="0.21013133">
               <folding />
             </state>
           </provider>
@@ -310,7 +309,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="99" selection-start="622" selection-end="622" vertical-scroll-proportion="0.2251407">
+        <state line="15" column="113" selection-start="636" selection-end="636" vertical-scroll-proportion="0.21013133">
           <folding />
         </state>
       </provider>
