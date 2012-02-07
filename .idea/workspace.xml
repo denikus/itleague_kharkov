@@ -27,7 +27,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="73" selection-start="6496" selection-end="6496" vertical-scroll-proportion="0.7598499">
+            <state line="86" column="189" selection-start="5907" selection-end="5907" vertical-scroll-proportion="0.63977486">
               <folding />
             </state>
           </provider>
@@ -471,9 +471,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/layout/partners/dou.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="73" selection-start="6496" selection-end="6496" vertical-scroll-proportion="0.7598499">
+        <state line="86" column="189" selection-start="5907" selection-end="5907" vertical-scroll-proportion="0.63977486">
           <folding />
         </state>
       </provider>
