@@ -1,6 +1,6 @@
 (function() {
 	var cnt = [
-		'<div class="pblock"><a href="http://itleague.football.kharkov.ua" title="Харьков Футбольный - IT-Лига" target="_blank"><img src="layout/partners/p_s_fk.gif" width="180" height="45" alt="Харьков Футбольный - IT-Лига"/></a></div><div class="pblock"><a href="http://shop.football.kharkov.ua" title="Футбольный Магазин" target="_blank"><img src="layout/partners/p_s_fs.gif" width="180" height="45" alt="Футбольный Магазин"/></a></div>'
+		'<div class="pblock"><a href="http://dou.ua" title="Developers.org.ua" target="_blank"><img src="layout/partners/dou.png" alt="Developers.org.ua"/></a></div><div class="pblock"><a href="http://itleague.football.kharkov.ua" title="Харьков Футбольный - IT-Лига" target="_blank"><img src="layout/partners/p_s_fk.gif" width="180" height="45" alt="Харьков Футбольный - IT-Лига"/></a></div><div class="pblock"><a href="http://shop.football.kharkov.ua" title="Футбольный Магазин" target="_blank"><img src="layout/partners/p_s_fs.gif" width="180" height="45" alt="Футбольный Магазин"/></a></div>'
 	];
 //	var rand = function(n){return (Math.floor(Math.random()*n+1));};
 //	var p1 = rand(cnt.length)-1;
