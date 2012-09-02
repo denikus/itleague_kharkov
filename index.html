@@ -43,7 +43,34 @@ layout: default
 </section> -->
 
 <div class="blocks_l">
-    <img src="images/block_tw.gif" class="block_tw" width="339" height="110"  alt="" />
+    <script charset="utf-8" src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 5,
+  interval: 30000,
+  width: 339,
+  height: 110,
+  theme: {
+    shell: {
+      background: '#ededed',
+      color: '#707070'
+    },
+    tweets: {
+      background: '#ffffff',
+      color: '#000000',
+      links: '#1da6be'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    behavior: 'default'
+  }
+}).render().setUser('itleague').start();
+</script>
     <img src="images/block_face.gif" width="335" height="333" alt="" />
 </div>
 <h2>О турнире</h2>
