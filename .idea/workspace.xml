@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="442a6f08-f9b7-45be-b242-faef23709422" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regulations.html" afterPath="$PROJECT_DIR$/regulations.html" />
     </list>
     <ignored path="itleague.iws" />
@@ -38,7 +37,7 @@
       <file leaf-file-name="regulations.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/regulations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="73" selection-start="364" selection-end="364" vertical-scroll-proportion="0.24242425" vertical-offset="0" max-vertical-offset="5778">
+            <state line="313" column="5" selection-start="29296" selection-end="29296" vertical-scroll-proportion="0.72727275" vertical-offset="5202" max-vertical-offset="5796">
               <folding />
             </state>
           </provider>
@@ -385,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/regulations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="73" selection-start="364" selection-end="364" vertical-scroll-proportion="0.24242425" vertical-offset="0" max-vertical-offset="5778">
+        <state line="313" column="5" selection-start="29296" selection-end="29296" vertical-scroll-proportion="0.72727275" vertical-offset="5202" max-vertical-offset="5796">
           <folding />
         </state>
       </provider>
