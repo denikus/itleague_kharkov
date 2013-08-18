@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="442a6f08-f9b7-45be-b242-faef23709422" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regulations.html" afterPath="$PROJECT_DIR$/regulations.html" />
     </list>
     <ignored path="itleague.iws" />
@@ -37,7 +38,16 @@
       <file leaf-file-name="regulations.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/regulations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="969" selection-end="969" vertical-scroll-proportion="0.4848485" vertical-offset="108" max-vertical-offset="5724">
+            <state line="8" column="73" selection-start="364" selection-end="364" vertical-scroll-proportion="0.24242425" vertical-offset="0" max-vertical-offset="5778">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="797" column="0" selection-start="14952" selection-end="14952" vertical-scroll-proportion="0.0" vertical-offset="13761" max-vertical-offset="14454">
               <folding />
             </state>
           </provider>
@@ -71,6 +81,7 @@
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/tournament.html" />
         <option value="$PROJECT_DIR$/contacts.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/regulations.html" />
       </list>
     </option>
@@ -131,6 +142,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="itleague" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itleague" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="itleague" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -351,9 +376,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="797" column="0" selection-start="14952" selection-end="14952" vertical-scroll-proportion="0.0" vertical-offset="13761" max-vertical-offset="14454">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/regulations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="969" selection-end="969" vertical-scroll-proportion="0.4848485" vertical-offset="108" max-vertical-offset="5724">
+        <state line="8" column="73" selection-start="364" selection-end="364" vertical-scroll-proportion="0.24242425" vertical-offset="0" max-vertical-offset="5778">
           <folding />
         </state>
       </provider>
