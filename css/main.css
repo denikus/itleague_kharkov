@@ -360,6 +360,10 @@ img, video {
     /*border-top: 1px solid #f8f8f8;*/
 }
 
+ul.content {
+  list-style-type: none;
+}
+
 .pagination ul {
     display: inline-block;
     padding: 9px 0 9px 0;
