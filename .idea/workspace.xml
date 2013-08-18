@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="442a6f08-f9b7-45be-b242-faef23709422" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/regulations.html" afterPath="$PROJECT_DIR$/regulations.html" />
     </list>
     <ignored path="itleague.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,19 +34,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="regulations.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="regulations.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/regulations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="313" column="5" selection-start="29296" selection-end="29296" vertical-scroll-proportion="-16.0" vertical-offset="5202" max-vertical-offset="5796">
+            <state line="12" column="18" selection-start="424" selection-end="424" vertical-scroll-proportion="0.36363637" vertical-offset="0" max-vertical-offset="5796">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="363" column="2" selection-start="7236" selection-end="7236" vertical-scroll-proportion="0.54453784" vertical-offset="6210" max-vertical-offset="14526">
+            <state line="363" column="2" selection-start="7236" selection-end="7236" vertical-scroll-proportion="-12.461538" vertical-offset="6210" max-vertical-offset="14526">
               <folding />
             </state>
           </provider>
@@ -80,8 +80,8 @@
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/tournament.html" />
         <option value="$PROJECT_DIR$/contacts.html" />
-        <option value="$PROJECT_DIR$/regulations.html" />
         <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/regulations.html" />
       </list>
     </option>
   </component>
@@ -375,16 +375,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/regulations.html">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="313" column="5" selection-start="29296" selection-end="29296" vertical-scroll-proportion="-16.0" vertical-offset="5202" max-vertical-offset="5796">
+        <state line="363" column="2" selection-start="7236" selection-end="7236" vertical-scroll-proportion="-12.461538" vertical-offset="6210" max-vertical-offset="14526">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/regulations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="363" column="2" selection-start="7236" selection-end="7236" vertical-scroll-proportion="0.54453784" vertical-offset="6210" max-vertical-offset="14526">
+        <state line="12" column="18" selection-start="424" selection-end="424" vertical-scroll-proportion="0.36363637" vertical-offset="0" max-vertical-offset="5796">
           <folding />
         </state>
       </provider>
